@@ -1,0 +1,22 @@
+
+body{
+    margin: 15em;
+    padding: 0;
+    background-color: #f5f5dc;
+
+}
+
+h3{
+font-family: arial;
+color: darkorange;
+
+text-align: center;
+}
+
+img{
+height: 50%;
+width: 50%;
+display: block;
+margin-right: auto;
+margin-left: auto;
+}
